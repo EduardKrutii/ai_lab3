@@ -1,0 +1,3 @@
+Model,Context_Len,Val_Loss
+minigpt_v1_base,32,5.191539287567139
+minigpt_v2_large_ctx,64,5.499367713928223
